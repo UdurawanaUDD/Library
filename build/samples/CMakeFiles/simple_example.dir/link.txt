@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/simple_example.dir/simple_example/./simple_example_generated_main.cu.o  -o ../bin/simple_example -rdynamic /usr/local/cuda-7.5/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda-7.5/lib64 
