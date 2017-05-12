@@ -5,7 +5,7 @@
 #include <fstream>
 #include <stdlib.h>
 
-#include <scarf/RF.cuh>
+#include "../../../include/cuda_mine.cuh"
 
 
 typedef size_t Phi;

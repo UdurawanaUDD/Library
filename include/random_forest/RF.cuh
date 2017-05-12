@@ -11,9 +11,9 @@
 #include <thrust/extrema.h>
 
 // Scarf Includes
-#include <scarf/RFConfig.cuh>
-#include <scarf/DataSet.cuh>
-#include <scarf/Tree/Tree.cuh>
+#include "RFConfig.cuh"
+#include "DataSet.cuh"
+#include "Tree/Tree.cuh"
 
 namespace scarf {
 

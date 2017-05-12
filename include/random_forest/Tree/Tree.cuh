@@ -12,7 +12,7 @@
 #include <thrust/sort.h>
 
 // Scarf headers
-#include <scarf/Tree/TreeTrainingUtils.cuh>
+#include "TreeTrainingUtils.cuh"
 
 
 /**

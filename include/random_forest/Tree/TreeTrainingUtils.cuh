@@ -20,8 +20,8 @@
 #include <thrust/inner_product.h>
 #include <thrust/iterator/constant_iterator.h>
 
-#include <scarf/DataSet.cuh>
-#include <scarf/InformationGain.cuh>
+#include "../DataSet.cuh"
+#include "../InformationGain.cuh"
 
 
 /**

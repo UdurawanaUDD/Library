@@ -19,7 +19,7 @@
 
 #include <thrust/host_vector.h>
 
-#include <scarf/Sample.cuh>
+#include "Sample.cuh"
 
 namespace scarf {
 
