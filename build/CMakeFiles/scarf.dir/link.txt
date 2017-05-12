@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -g   -shared -Wl,-soname,libscarf.so -o libscarf.so  /usr/local/cuda-7.5/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda-7.5/lib64 

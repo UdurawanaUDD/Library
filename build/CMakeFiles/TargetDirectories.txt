@@ -1,3 +1,0 @@
-/home/e12323/final_project/tmp/ScaRF/build/CMakeFiles/samples.dir
-/home/e12323/final_project/tmp/ScaRF/build/CMakeFiles/scarf.dir
-/home/e12323/final_project/tmp/ScaRF/build/samples/CMakeFiles/simple_example.dir
